@@ -1,0 +1,1 @@
+{"url":"http://image.quanjing.com/qiche","type":"image","from":"1","to":"1","saveDir":"d:\\pachong","selector":[{"$":"$('a.img')","attr":"href"},{"$":"$('.imginfo_bigpic').find('img[src]')","attr":"src"}],"isPagination":1,"mode":"web"}

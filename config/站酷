@@ -1,0 +1,1 @@
+{"url":"http://www.zcool.com.cn/gfxs/0!0!0!0!0!0!0!0!200!1!%%/","type":"image","from":"1","to":"2","saveDir":"d:\\pachong\\zhanku","selector":[{"$":"$('.camWholeBoxUl li a')","attr":"href"},{"$":"$('.workContent').find('img[src]')","attr":"src"}],"isPagination":1,"mode":"web"}
