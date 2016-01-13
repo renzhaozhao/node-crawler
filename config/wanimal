@@ -1,1 +1,1 @@
-{"url":"http://wanimal1983.tumblr.com/page/%%","type":"image","from":"2","to":"5","saveDir":"d:\\pachong\\wanimal","selector":[{"$":"$('.media').find('a')","attr":"href"},{"$":"$('#content-image[data-src]')","attr":"data-src"}],"isPagination":1,"mode":"web"}
+{"url":"http://wanimal1983.tumblr.com/page/%%","type":"image","from":"100","to":"100","saveDir":"d:\\papapa\\wanimal","selector":[{"$":"$('.media').find('a')","attr":"href"},{"$":"$('#content-image[data-src]')","attr":"data-src"}],"isPagination":1,"mode":"web"}
